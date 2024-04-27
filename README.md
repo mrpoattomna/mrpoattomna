@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning booga
 - 💞️ I’m looking to collaborate on making the potatoman real
 - 📫 How to reach me you can't
-- 😄 Pronouns: potato
 - ⚡ Fun fact: I am a cave potatoman
 
 <!---
